@@ -1,8 +1,8 @@
-# RoboCup JapanOpen 2022 @Home League
+# RoboCup JapanOpen 2021 @Home League
 
 # 情報発信サイト
 
-RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリです．大会終了まで頻繁に更新されます．
+RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリです．大会終了まで頻繁に更新されます．
 
 ## OPL/DSPL
 
