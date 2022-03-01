@@ -1,10 +1,15 @@
 # RCJ22 OPL 競技実施要項
 
+- 本競技は完全リモートで実施します
 - 基本的にRCAP2021に準じる形で実施します
 
 ## 参加チーム
 
-今後募集を実施します
+| Team Code | Team Name                  | Affiliation              |
+| ---       | ---                        | ---                      |
+|AHOP-1     | Hibikino-Musashi@Home OPL  | 九州工業大学，北九州市立大学  |
+|AHOP-2     | SOBITS                     | 創価大学                  |
+|AHOP-3     | Happy Robot                | 金沢工業大学　出村研究室     |
 
 ## オブジェクトについて
 

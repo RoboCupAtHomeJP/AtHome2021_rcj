@@ -4,7 +4,12 @@
 
 ## 参加チーム
 
-今後募集を実施します
+| Team Code | Team Name                  | Affiliation              |
+| ---       | ---                        | ---                      |
+| AHDSP-1   | Hibikino-Musashi@Home DSPL | 九州工業大学，北九州市立大学  |
+| AHDSP-2   | eR@sers                    | 玉川大学                  |
+| AHDSP-3   | OIT-RITS                   | 大阪工業大学，立命館大学合同  |
+| AHDSP-4   | AISL-TUT                   | 豊橋技術科学大学            |
 
 ## オブジェクトについて
 
