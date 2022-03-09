@@ -22,6 +22,9 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 ### YouTube配信
 [こちら](https://youtu.be/mkYNPJpDFwE)で競技の様子を配信しています．
 
+### スコア
+各トライアルのスコア一覧は[こちら](https://docs.google.com/spreadsheets/d/1--Uzo3HmeSkqBuaRBlmRC-EKpQiz0rNMI4CtpzISzBE/edit?usp=sharing)
+
 ## OPL
 
 ### 会場
