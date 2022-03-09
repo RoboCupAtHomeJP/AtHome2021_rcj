@@ -19,6 +19,9 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 - 3月9日～3月12日：競技実施日
 - [スケジュール](https://docs.google.com/spreadsheets/d/1g4CQiJYWEwPUAedbljx-nmJCsvR6ojejs3nIpBu3w0M/edit?usp=sharing)
 
+### YouTube配信
+[こちら](https://youtu.be/mkYNPJpDFwE)で競技の様子を配信しています．
+
 ## OPL
 
 ### 会場
