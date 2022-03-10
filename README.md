@@ -20,7 +20,9 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 - [スケジュール](https://docs.google.com/spreadsheets/d/1g4CQiJYWEwPUAedbljx-nmJCsvR6ojejs3nIpBu3w0M/edit?usp=sharing)
 
 ### YouTube配信
-[こちら](https://youtu.be/mkYNPJpDFwE)で競技の様子を配信しています．
+以下で配信していますので是非ご覧ください．
+- [DAY 1](https://youtu.be/mkYNPJpDFwE)
+- [DAY 2](https://youtu.be/Eq402jcMcHU)
 
 ### スコア
 各トライアルのスコア一覧は[こちら](https://docs.google.com/spreadsheets/d/1--Uzo3HmeSkqBuaRBlmRC-EKpQiz0rNMI4CtpzISzBE/edit?usp=sharing)
