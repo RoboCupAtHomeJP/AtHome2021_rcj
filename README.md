@@ -21,13 +21,16 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 
 ### YouTube配信
 以下で配信していますので是非ご覧ください．
-- [DAY 1](https://youtu.be/mkYNPJpDFwE)
-- [DAY 2](https://youtu.be/Eq402jcMcHU)
-- DAY 3 (準備中)
+- [DAY 1 (3/09)](https://youtu.be/mkYNPJpDFwE)
+- [DAY 2 (3/10)](https://youtu.be/Eq402jcMcHU)
+- [DAY 3 (3/11)](https://youtu.be/KOODGis20LI)
     - 11:30-11:50, eR@sers & OIT-RITS
     - 13:00-13:20, HMA & AISL-TUT
     - 14:30-14:50, eR@sers & OIT-RITS
     - 15:30-15:50, HMA (デモ)
+- [DAY 4 (3/12)](https://youtu.be/IEwQ8z3POMQ)
+    - 11:30-, HMA & AISL-TUT
+    - 午後: Final（予定）
 
 ### スコア
 各トライアルのスコア一覧は[こちら](https://docs.google.com/spreadsheets/d/1--Uzo3HmeSkqBuaRBlmRC-EKpQiz0rNMI4CtpzISzBE/edit?usp=sharing)
