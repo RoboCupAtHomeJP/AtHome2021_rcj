@@ -15,7 +15,7 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 詳細な競技スケジュールはしばらくお待ちください．
 
 - 場所：東京ビッグサイト，[国際ロボット展（iRex）](https://biz.nikkan.co.jp/eve/irex/)にて
-- 3月7日：ロボット搬入日・環境セットアップ
+- 3月7日：ロボット搬入日・各チームロボットセットアップ
 - 3月8日：セットアップデイ
 - 3月9日～3月12日：競技実施日
 - [スケジュール](https://docs.google.com/spreadsheets/d/1g4CQiJYWEwPUAedbljx-nmJCsvR6ojejs3nIpBu3w0M/edit?usp=sharing)
