@@ -39,10 +39,14 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
 ## OPL
 
 ### 会場
-完全リモート実施
+完全リモート実施です．
+[YouTube](https://www.youtube.com/playlist?list=PL76Fsm9DP1_bia86Rn-pE6ncAHX6a1AR3)で配信しています．
 
 ### スケジュール
-- 3月21日：チームリーダーミーティング（TLM）
+[詳細スケジュール](https://docs.google.com/spreadsheets/d/1Wwglyn6bjFeGVFQJqDHaiiWrouD2ik5RAsV7S1UAI5U/edit?usp=sharing)
+- 3月21日
+    - 16:00- チームリーダーミーティング（TLM）
+    - TLM後- Robot Inspection
 - 3月22日-3月23日：競技
 
 ## OPL/DSPL 実施要項
