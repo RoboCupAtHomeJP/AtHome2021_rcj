@@ -49,6 +49,9 @@ RoboCup JapanOpen 2021 @ホームリーグの情報発信用リポジトリで�
     - TLM後- Robot Inspection
 - 3月22日-3月23日：競技
 
+### スコア
+各タスクのスコア一覧は[こちら](https://docs.google.com/spreadsheets/d/1ZhH3hRoaLazqcZ2LMkxejQ-hE4T_RDFQXBNGlYv_Meg/edit?usp=sharing)
+
 ## OPL/DSPL 実施要項
 
 - [OPL](./Data/opl_ja.md)
